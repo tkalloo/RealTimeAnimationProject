@@ -1,0 +1,3 @@
+﻿  Renderer.cpp
+f:\rta may\rta graphics - milestone 3\rta graphics\rta graphics setup\renderer.cpp(1432): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  RTA Graphics Setup.vcxproj -> F:\RTA May\RTA Graphics - Milestone 3\RTA Graphics\x64\Debug\RTA Graphics Setup.exe

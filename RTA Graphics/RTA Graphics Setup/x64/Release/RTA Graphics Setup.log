@@ -1,0 +1,12 @@
+﻿Build started 5/25/2016 8:28:29 PM.
+     1>Project "C:\Users\Theo\Desktop\RTA Graphics - Before turn in 2 and 3\RTA Graphics Setup\RTA Graphics Setup\RTA Graphics Setup.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\VS2013\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D FBXSDK_SHARED /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Renderer.cpp
+         Renderer.cpp
+     1>Renderer.cpp(433): error C2065: '_DEBUG' : undeclared identifier
+     1>Renderer.cpp(1429): warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+     1>Done Building Project "C:\Users\Theo\Desktop\RTA Graphics - Before turn in 2 and 3\RTA Graphics Setup\RTA Graphics Setup\RTA Graphics Setup.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.19
